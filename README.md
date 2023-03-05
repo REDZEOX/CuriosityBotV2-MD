@@ -60,4 +60,3 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="https://github.com/AzamiWithLogic"><img src="https://github.com/AzamiWithLogic.png" width="300" height="300" alt="AzamiWithLogic"/></a>
 
 `CuriosityBot-MD _ By @Azami`
-  ### `👑 Gata Dios | El rebelde 👑`
