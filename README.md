@@ -52,7 +52,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ## `COLABORADORES DEL BOT` 
-<a href="https://github.com/SinNombre999"><img src="https://github.com/SinNombre999.png" width="200" height="200" alt="SinNombre999"/></a>
+<a href="https://github.com/GataNina-Li"><img src="https://github.com/GataNina-Li.png" width="100" height="100" alt="GataNina-Li"/></a>
 
 <div align="center">
   <h1 align="center">EDITOR Y PROPIETARIO DEL BOT</h1>
