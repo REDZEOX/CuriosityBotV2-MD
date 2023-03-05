@@ -57,7 +57,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <div align="center">
   <h1 align="center">EDITOR Y PROPIETARIO DEL BOT</h1>
 
-<a href="https://github.com/ALBERTO9883"><img src="https://github.com/ALBERTO9883.png" width="300" height="300" alt="ALBERTO9883"/></a>
+<a href="https://github.com/AzamiWithLogic"><img src="https://github.com/AzamiWithLogic.png" width="300" height="300" alt="AzamiWithLogic"/></a>
 
 `NyanCatBot-MD _ By Alberto Acosta`
   ### `⚘Alberto Y Ashly⚘`
